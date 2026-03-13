@@ -6,6 +6,8 @@ GitHub 图片 CDN 仓库，配合 jsDelivr 使用。
 
 ```
 https://cdn.jsdelivr.net/gh/smallyangy/temporary_images@master/images/<文件名>
+
+如：https://cdn.jsdelivr.net/gh/smallyangy/temporary_images@master/images/视频.png
 ```
 
 ## 使用上传脚本
