@@ -1,0 +1,7 @@
+{
+  "github_token": "your_github_personal_access_token_here",
+  "repo": "smallyangy/temporary_images",
+  "branch": "master",
+  "images_path": "images",
+  "cdn_base": "https://cdn.jsdelivr.net/gh/smallyangy/temporary_images@master"
+}
