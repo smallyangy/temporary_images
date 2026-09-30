@@ -1,46 +1,27 @@
 {
   "app": "zhouzhou-cookbook",
   "version": 1,
-  "exportedAt": "2026-09-30T03:21:12.843Z",
+  "exportedAt": "2026-09-30T03:22:15.935Z",
   "recipes": [
     {
-      "title": "测试云端备份2",
+      "title": "345345435",
       "category": "家常菜",
-      "tags": [
-        "111"
-      ],
-      "servings": "3",
-      "prepMinutes": 2,
+      "tags": [],
+      "servings": "",
+      "prepMinutes": 1,
       "cookMinutes": 2,
-      "notes": "445",
-      "ingredients": [
-        {
-          "id": "d189bbee-68e7-4b23-af4c-430d7ef664c3",
-          "name": "232",
-          "amount": "",
-          "unit": ""
-        },
-        {
-          "id": "62952f4d-1c56-4c89-a046-7ed24ddc5b5c",
-          "name": "232",
-          "amount": "",
-          "unit": ""
-        }
-      ],
+      "notes": "",
+      "ingredients": [],
       "steps": [
         {
-          "id": "d9da960c-6de7-4443-855e-95f13202a72f",
-          "content": "2323"
-        },
-        {
-          "id": "e53b0629-1ff5-45f8-a2dc-c18ce630a8bc",
-          "content": "233434"
+          "id": "1e62e7c3-0242-4dff-9469-a1dfc84c426a",
+          "content": "234234"
         }
       ],
       "isFavorite": false,
-      "id": "97c23984-969b-4102-8861-8557000a65d0",
-      "createdAt": "2026-09-30T03:10:17.282Z",
-      "updatedAt": "2026-09-30T03:20:50.331Z"
+      "id": "73cddd85-5f9f-4cd4-88c1-c0d7323509d9",
+      "createdAt": "2026-09-30T03:22:10.568Z",
+      "updatedAt": "2026-09-30T03:22:10.568Z"
     }
   ]
 }
