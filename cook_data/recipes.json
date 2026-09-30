@@ -1,7 +1,7 @@
 {
   "app": "zhouzhou-cookbook",
   "version": 1,
-  "exportedAt": "2026-09-30T15:38:54.334Z",
+  "exportedAt": "2026-09-30T15:39:00.174Z",
   "recipes": [
     {
       "title": "蒸鲈鱼",
@@ -150,10 +150,10 @@
           "content": "最后加入葱花，翻炒均匀出锅！"
         }
       ],
-      "isFavorite": true,
+      "isFavorite": false,
       "id": "fa0373f8-3cd3-4217-b434-8a13c1642290",
       "createdAt": "2026-09-20T04:00:00.000Z",
-      "updatedAt": "2026-09-30T15:38:53.562Z"
+      "updatedAt": "2026-09-30T15:38:59.146Z"
     }
   ]
 }
