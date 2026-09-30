@@ -1,15 +1,15 @@
 {
   "app": "zhouzhou-cookbook",
   "version": 1,
-  "exportedAt": "2026-09-30T03:10:23.434Z",
+  "exportedAt": "2026-09-30T03:21:12.843Z",
   "recipes": [
     {
-      "title": "测试云端备份",
+      "title": "测试云端备份2",
       "category": "家常菜",
       "tags": [
         "111"
       ],
-      "servings": "2",
+      "servings": "3",
       "prepMinutes": 2,
       "cookMinutes": 2,
       "notes": "445",
@@ -40,7 +40,7 @@
       "isFavorite": false,
       "id": "97c23984-969b-4102-8861-8557000a65d0",
       "createdAt": "2026-09-30T03:10:17.282Z",
-      "updatedAt": "2026-09-30T03:10:17.282Z"
+      "updatedAt": "2026-09-30T03:20:50.331Z"
     }
   ]
 }
