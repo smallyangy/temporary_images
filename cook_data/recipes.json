@@ -1,49 +1,155 @@
 {
-    "app": "zhouzhou-cookbook",
-    "version": 1,
-    "exportedAt": "2026-09-30T03:22:15.935Z",
-    "recipes": [
+  "app": "zhouzhou-cookbook",
+  "version": 1,
+  "exportedAt": "2026-09-30T03:22:15.935Z",
+  "recipes": [
+    {
+      "id": "ca412d79-b233-47e7-bcd3-01a2cdf3703d",
+      "title": "蒸鲈鱼",
+      "category": "家常菜",
+      "tags": [
+        "周末"
+      ],
+      "servings": "",
+      "prepMinutes": null,
+      "cookMinutes": null,
+      "notes": "",
+      "ingredients": [
         {
-            "name": "蒸鲈鱼",
-            "category": "家常菜",
-            "tags": ["周末"],
-            "ingredients": [
-                { "name": "鲈鱼", "amount": "1条" },
-                { "name": "姜片", "amount": null },
-                { "name": "大葱", "amount": null },
-                { "name": "小葱", "amount": null },
-                { "name": "蒸鱼豉油、油", "amount": null }
-            ],
-            "steps": [
-                "鲈鱼买回来后清水冲洗干净，检查鱼鳞刮干净没，然后把其他血水冲洗掉",
-                "给鲈鱼改刀，身体中间劈一下，背部竖着一边来一刀，让鲈鱼能趴在盘子中",
-                "盘子中架两根筷子，背部刀划开的地方夹姜片，小葱1-2根打结放到鱼上。大葱小葱切丝，蒸好后会用",
-                "开始蒸鱼，锅上汽后，把整盘鱼放入，盖上锅盖，计时8分钟",
-                "8分钟到后，拿出鱼，处理掉底部蒸鱼汤汁（巨腥），可以倒掉，也可以将鱼转移到另外的盘子，然后把葱、姜片夹出",
-                "把之前切的葱丝放到鱼上，倒蒸鱼豉油，起锅烧油，将油淋在葱丝上，激发香味。完成"
-            ],
-            "recordedAt": "2026-09-20"
+          "id": "6bd43c80-5fea-48df-b563-89fc5684b6bb",
+          "name": "鲈鱼",
+          "amount": "1",
+          "unit": "条"
         },
         {
-            "name": "蛋炒饭",
-            "category": "家常菜",
-            "tags": ["炒饭"],
-            "ingredients": [
-                { "name": "鸡蛋", "amount": "4个" },
-                { "name": "隔夜饭", "amount": "1份" },
-                { "name": "蒜瓣", "amount": "若干" },
-                { "name": "葱", "amount": "若干" },
-                { "name": "蚝油、生抽、盐", "amount": null },
-                { "name": "菜籽油", "amount": null }
-            ],
-            "steps": [
-                "备菜：葱切花，蒜拍一下切片",
-                "热锅凉油，先炒鸡蛋，直接把鸡蛋打入锅中煎熟，用勺子切成小块，放蒜瓣，炒香",
-                "加入米饭，用勺子把米饭炒散，水分炒干",
-                "调味：加入蚝油，生抽，盐，大火炒均匀",
-                "最后加入葱花，翻炒均匀出锅！"
-            ],
-            "recordedAt": "2026-09-20"
+          "id": "2fa13353-3cf7-4f03-a949-4cc60b978a28",
+          "name": "姜片",
+          "amount": "",
+          "unit": ""
+        },
+        {
+          "id": "f39fb8cd-1a2e-4a7e-8e2c-e9a2da9f12b5",
+          "name": "大葱",
+          "amount": "",
+          "unit": ""
+        },
+        {
+          "id": "ac73922c-f753-4e23-ab1e-df22857d256c",
+          "name": "小葱",
+          "amount": "",
+          "unit": ""
+        },
+        {
+          "id": "46819df1-ab04-41ab-9398-e465e31afe3c",
+          "name": "蒸鱼豉油、油",
+          "amount": "",
+          "unit": ""
         }
-    ]
+      ],
+      "steps": [
+        {
+          "id": "8daec136-e414-4266-9c3d-4229b43807bb",
+          "content": "鲈鱼买回来后清水冲洗干净，检查鱼鳞刮干净没，然后把其他血水冲洗掉"
+        },
+        {
+          "id": "573cbe42-526a-4e84-bbf1-65c8c091077c",
+          "content": "给鲈鱼改刀，身体中间劈一下，背部竖着一边来一刀，让鲈鱼能趴在盘子中"
+        },
+        {
+          "id": "4c03235e-f38b-40f8-a271-4c41f909a322",
+          "content": "盘子中架两根筷子，背部刀划开的地方夹姜片，小葱1-2根打结放到鱼上。大葱小葱切丝，蒸好后会用"
+        },
+        {
+          "id": "a0cf6c9a-acb7-418e-b07e-ae7350d03fd9",
+          "content": "开始蒸鱼，锅上汽后，把整盘鱼放入，盖上锅盖，计时8分钟"
+        },
+        {
+          "id": "39fc5f74-d8ea-4620-a79d-60d0ae16e7ce",
+          "content": "8分钟到后，拿出鱼，处理掉底部蒸鱼汤汁（巨腥），可以倒掉，也可以将鱼转移到另外的盘子，然后把葱、姜片夹出"
+        },
+        {
+          "id": "f2c3c765-8f08-4c67-b3e7-b274c104bec5",
+          "content": "把之前切的葱丝放到鱼上，倒蒸鱼豉油，起锅烧油，将油淋在葱丝上，激发香味。完成"
+        }
+      ],
+      "isFavorite": false,
+      "createdAt": "2026-09-20T04:00:00.000Z",
+      "updatedAt": "2026-09-20T04:00:00.000Z"
+    },
+    {
+      "id": "fa0373f8-3cd3-4217-b434-8a13c1642290",
+      "title": "蛋炒饭",
+      "category": "家常菜",
+      "tags": [
+        "炒饭"
+      ],
+      "servings": "",
+      "prepMinutes": null,
+      "cookMinutes": null,
+      "notes": "",
+      "ingredients": [
+        {
+          "id": "f3832fbd-7ceb-4b01-96b9-a08ecc3a107f",
+          "name": "鸡蛋",
+          "amount": "4",
+          "unit": "个"
+        },
+        {
+          "id": "654044a5-395f-4ec2-b21a-031cf9c95883",
+          "name": "隔夜饭",
+          "amount": "1",
+          "unit": "份"
+        },
+        {
+          "id": "ebd470c3-e3ab-44d4-893f-deaa2c9205dc",
+          "name": "蒜瓣",
+          "amount": "若干",
+          "unit": ""
+        },
+        {
+          "id": "d15d2004-9e9b-4263-81db-2915ee16fa3a",
+          "name": "葱",
+          "amount": "若干",
+          "unit": ""
+        },
+        {
+          "id": "9c7ae635-6832-4e24-b902-15f4f6127e98",
+          "name": "蚝油、生抽、盐",
+          "amount": "",
+          "unit": ""
+        },
+        {
+          "id": "7d2b38ab-bcd0-4789-b238-21d97fe9a5ce",
+          "name": "菜籽油",
+          "amount": "",
+          "unit": ""
+        }
+      ],
+      "steps": [
+        {
+          "id": "40afbfc8-023b-4e60-b186-e9fba5bc991d",
+          "content": "备菜：葱切花，蒜拍一下切片"
+        },
+        {
+          "id": "bb15a777-ca4c-401c-80a6-ee0aa471e9f8",
+          "content": "热锅凉油，先炒鸡蛋，直接把鸡蛋打入锅中煎熟，用勺子切成小块，放蒜瓣，炒香"
+        },
+        {
+          "id": "7a06dedb-ee86-422f-b60f-8e7231d91a63",
+          "content": "加入米饭，用勺子把米饭炒散，水分炒干"
+        },
+        {
+          "id": "e457f881-2193-41ef-96f3-ab458d71251d",
+          "content": "调味：加入蚝油，生抽，盐，大火炒均匀"
+        },
+        {
+          "id": "32eeef0a-f191-49a7-a36f-b0eb86b1e771",
+          "content": "最后加入葱花，翻炒均匀出锅！"
+        }
+      ],
+      "isFavorite": false,
+      "createdAt": "2026-09-20T04:00:00.000Z",
+      "updatedAt": "2026-09-20T04:00:00.000Z"
+    }
+  ]
 }
