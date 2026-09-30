@@ -1,83 +1,8 @@
 {
   "app": "zhouzhou-cookbook",
   "version": 1,
-  "exportedAt": "2026-09-30T05:54:08.088Z",
+  "exportedAt": "2026-09-30T05:55:08.115Z",
   "recipes": [
-    {
-      "title": "蛋炒饭",
-      "category": "家常菜",
-      "tags": [
-        "炒饭"
-      ],
-      "servings": "",
-      "prepMinutes": null,
-      "cookMinutes": null,
-      "notes": "",
-      "ingredients": [
-        {
-          "id": "f3832fbd-7ceb-4b01-96b9-a08ecc3a107f",
-          "name": "鸡蛋",
-          "amount": "4",
-          "unit": "个"
-        },
-        {
-          "id": "654044a5-395f-4ec2-b21a-031cf9c95883",
-          "name": "隔夜饭",
-          "amount": "1",
-          "unit": "份"
-        },
-        {
-          "id": "ebd470c3-e3ab-44d4-893f-deaa2c9205dc",
-          "name": "蒜瓣",
-          "amount": "若干",
-          "unit": ""
-        },
-        {
-          "id": "d15d2004-9e9b-4263-81db-2915ee16fa3a",
-          "name": "葱",
-          "amount": "若干",
-          "unit": ""
-        },
-        {
-          "id": "9c7ae635-6832-4e24-b902-15f4f6127e98",
-          "name": "蚝油、生抽、盐",
-          "amount": "",
-          "unit": ""
-        },
-        {
-          "id": "7d2b38ab-bcd0-4789-b238-21d97fe9a5ce",
-          "name": "菜籽油",
-          "amount": "",
-          "unit": ""
-        }
-      ],
-      "steps": [
-        {
-          "id": "40afbfc8-023b-4e60-b186-e9fba5bc991d",
-          "content": "备菜：葱切花，蒜拍一下切片"
-        },
-        {
-          "id": "bb15a777-ca4c-401c-80a6-ee0aa471e9f8",
-          "content": "热锅凉油，先炒鸡蛋，直接把鸡蛋打入锅中煎熟，用勺子切成小块，放蒜瓣，炒香"
-        },
-        {
-          "id": "7a06dedb-ee86-422f-b60f-8e7231d91a63",
-          "content": "加入米饭，用勺子把米饭炒散，水分炒干"
-        },
-        {
-          "id": "e457f881-2193-41ef-96f3-ab458d71251d",
-          "content": "调味：加入蚝油，生抽，盐，大火炒均匀"
-        },
-        {
-          "id": "32eeef0a-f191-49a7-a36f-b0eb86b1e771",
-          "content": "最后加入葱花，翻炒均匀出锅！"
-        }
-      ],
-      "isFavorite": false,
-      "id": "fa0373f8-3cd3-4217-b434-8a13c1642290",
-      "createdAt": "2026-09-20T04:00:00.000Z",
-      "updatedAt": "2026-09-20T04:00:00.000Z"
-    },
     {
       "title": "蒸鲈鱼",
       "category": "家常菜",
@@ -152,6 +77,83 @@
       "id": "ca412d79-b233-47e7-bcd3-01a2cdf3703d",
       "createdAt": "2026-09-20T04:00:00.000Z",
       "updatedAt": "2026-09-30T05:54:05.982Z"
+    },
+    {
+      "title": "蛋炒饭",
+      "category": "家常菜",
+      "tags": [
+        "炒饭",
+        "老公",
+        "果果"
+      ],
+      "servings": "",
+      "prepMinutes": null,
+      "cookMinutes": null,
+      "notes": "",
+      "ingredients": [
+        {
+          "id": "f3832fbd-7ceb-4b01-96b9-a08ecc3a107f",
+          "name": "鸡蛋",
+          "amount": "4",
+          "unit": "个"
+        },
+        {
+          "id": "654044a5-395f-4ec2-b21a-031cf9c95883",
+          "name": "隔夜饭",
+          "amount": "1",
+          "unit": "份"
+        },
+        {
+          "id": "ebd470c3-e3ab-44d4-893f-deaa2c9205dc",
+          "name": "蒜瓣",
+          "amount": "若干",
+          "unit": ""
+        },
+        {
+          "id": "d15d2004-9e9b-4263-81db-2915ee16fa3a",
+          "name": "葱",
+          "amount": "若干",
+          "unit": ""
+        },
+        {
+          "id": "9c7ae635-6832-4e24-b902-15f4f6127e98",
+          "name": "蚝油、生抽、盐",
+          "amount": "",
+          "unit": ""
+        },
+        {
+          "id": "7d2b38ab-bcd0-4789-b238-21d97fe9a5ce",
+          "name": "菜籽油",
+          "amount": "",
+          "unit": ""
+        }
+      ],
+      "steps": [
+        {
+          "id": "40afbfc8-023b-4e60-b186-e9fba5bc991d",
+          "content": "备菜：葱切花，蒜拍一下切片"
+        },
+        {
+          "id": "bb15a777-ca4c-401c-80a6-ee0aa471e9f8",
+          "content": "热锅凉油，先炒鸡蛋，直接把鸡蛋打入锅中煎熟，用勺子切成小块，放蒜瓣，炒香"
+        },
+        {
+          "id": "7a06dedb-ee86-422f-b60f-8e7231d91a63",
+          "content": "加入米饭，用勺子把米饭炒散，水分炒干"
+        },
+        {
+          "id": "e457f881-2193-41ef-96f3-ab458d71251d",
+          "content": "调味：加入蚝油，生抽，盐，大火炒均匀"
+        },
+        {
+          "id": "32eeef0a-f191-49a7-a36f-b0eb86b1e771",
+          "content": "最后加入葱花，翻炒均匀出锅！"
+        }
+      ],
+      "isFavorite": false,
+      "id": "fa0373f8-3cd3-4217-b434-8a13c1642290",
+      "createdAt": "2026-09-20T04:00:00.000Z",
+      "updatedAt": "2026-09-30T05:55:07.707Z"
     }
   ]
 }
