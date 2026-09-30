@@ -1,27 +1,49 @@
 {
-  "app": "zhouzhou-cookbook",
-  "version": 1,
-  "exportedAt": "2026-09-30T03:22:15.935Z",
-  "recipes": [
-    {
-      "title": "345345435",
-      "category": "家常菜",
-      "tags": [],
-      "servings": "",
-      "prepMinutes": 1,
-      "cookMinutes": 2,
-      "notes": "",
-      "ingredients": [],
-      "steps": [
+    "app": "zhouzhou-cookbook",
+    "version": 1,
+    "exportedAt": "2026-09-30T03:22:15.935Z",
+    "recipes": [
         {
-          "id": "1e62e7c3-0242-4dff-9469-a1dfc84c426a",
-          "content": "234234"
+            "name": "蒸鲈鱼",
+            "category": "家常菜",
+            "tags": ["周末"],
+            "ingredients": [
+                { "name": "鲈鱼", "amount": "1条" },
+                { "name": "姜片", "amount": null },
+                { "name": "大葱", "amount": null },
+                { "name": "小葱", "amount": null },
+                { "name": "蒸鱼豉油、油", "amount": null }
+            ],
+            "steps": [
+                "鲈鱼买回来后清水冲洗干净，检查鱼鳞刮干净没，然后把其他血水冲洗掉",
+                "给鲈鱼改刀，身体中间劈一下，背部竖着一边来一刀，让鲈鱼能趴在盘子中",
+                "盘子中架两根筷子，背部刀划开的地方夹姜片，小葱1-2根打结放到鱼上。大葱小葱切丝，蒸好后会用",
+                "开始蒸鱼，锅上汽后，把整盘鱼放入，盖上锅盖，计时8分钟",
+                "8分钟到后，拿出鱼，处理掉底部蒸鱼汤汁（巨腥），可以倒掉，也可以将鱼转移到另外的盘子，然后把葱、姜片夹出",
+                "把之前切的葱丝放到鱼上，倒蒸鱼豉油，起锅烧油，将油淋在葱丝上，激发香味。完成"
+            ],
+            "recordedAt": "2026-09-20"
+        },
+        {
+            "name": "蛋炒饭",
+            "category": "家常菜",
+            "tags": ["炒饭"],
+            "ingredients": [
+                { "name": "鸡蛋", "amount": "4个" },
+                { "name": "隔夜饭", "amount": "1份" },
+                { "name": "蒜瓣", "amount": "若干" },
+                { "name": "葱", "amount": "若干" },
+                { "name": "蚝油、生抽、盐", "amount": null },
+                { "name": "菜籽油", "amount": null }
+            ],
+            "steps": [
+                "备菜：葱切花，蒜拍一下切片",
+                "热锅凉油，先炒鸡蛋，直接把鸡蛋打入锅中煎熟，用勺子切成小块，放蒜瓣，炒香",
+                "加入米饭，用勺子把米饭炒散，水分炒干",
+                "调味：加入蚝油，生抽，盐，大火炒均匀",
+                "最后加入葱花，翻炒均匀出锅！"
+            ],
+            "recordedAt": "2026-09-20"
         }
-      ],
-      "isFavorite": false,
-      "id": "73cddd85-5f9f-4cd4-88c1-c0d7323509d9",
-      "createdAt": "2026-09-30T03:22:10.568Z",
-      "updatedAt": "2026-09-30T03:22:10.568Z"
-    }
-  ]
+    ]
 }
